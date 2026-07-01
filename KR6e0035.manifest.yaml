@@ -1,0 +1,238 @@
+canonical_identifier: bkk:krp/KR6e0035/v1
+canonical_location: https://kanripo.org/bkk/KR6e0035/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說十地經
+  identifiers:
+    alt_id:
+    - T10n0287
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0287.xml
+    old_id: T10n0287
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0035_000.yaml, hash: 'sha256:192b0c158e39573597630bde10d495049ebfadc394d50b143463fac09e513038'}
+  - {seq: 1, filename: KR6e0035_001.yaml, hash: 'sha256:fd43e8e5770663dcd0cb9126cf692fb7734753bb39a00efb0c473805922ea9d3'}
+  - {seq: 2, filename: KR6e0035_002.yaml, hash: 'sha256:62eb84904b55a08fcd7a48486abc6bddf46728fa330e6b246e60bbe4e7f06785'}
+  - {seq: 3, filename: KR6e0035_003.yaml, hash: 'sha256:17bce333d787bfd6ec729f62c2c8de9aea159d6f66c92448c47a8ca88e1e3ed2'}
+  - {seq: 4, filename: KR6e0035_004.yaml, hash: 'sha256:d0cad633b46fe2fe4ecabc3cec6f736ae83ee836d1e02d5a2bfe242bbe0cf884'}
+  - {seq: 5, filename: KR6e0035_005.yaml, hash: 'sha256:a68e650a5655955cead5adfd7fd041fc15a50356348d8dfa92b78f8282669287'}
+  - {seq: 6, filename: KR6e0035_006.yaml, hash: 'sha256:8e83cc0ac398983aa262d950dc64805fe774e27645c2a8800253568d1482143e'}
+  - {seq: 7, filename: KR6e0035_007.yaml, hash: 'sha256:a0dadf7433234906ce8188ad84c104502ad6507d1c22e01a8d68ad515709d1f4'}
+  - {seq: 8, filename: KR6e0035_008.yaml, hash: 'sha256:d3ddaddc815c60946ae38519955e38dca5e30d074901bef31a25b697e6374652'}
+  - {seq: 9, filename: KR6e0035_009.yaml, hash: 'sha256:a3ad397f256ffa53963422318feedeb6bbb2e1a2f23a4d668f167172a0a9e165'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6e0035_001.markers.yaml, hash: 'sha256:5b82e5e10b0a6befdebb7d29fa170cf14a0ec90cb6510f9e247f8300c8374c66'}
+  - {seq: 2, role: markers, filename: assets/KR6e0035_002.markers.yaml, hash: 'sha256:511bee2cee00482b796fda2bc4f0148ede8a1b424ef0c64292b88c746d29278c'}
+  - {seq: 3, role: markers, filename: assets/KR6e0035_003.markers.yaml, hash: 'sha256:1829ec87e154a0a011292c2ac67aa6cd249b75cb2d6ee45e39014fc6cd055495'}
+  - {seq: 4, role: markers, filename: assets/KR6e0035_004.markers.yaml, hash: 'sha256:9ab210bdae201e6b7139076e3619dabac0781ce9e7a2ee90b28de2cb629b7cee'}
+  - {seq: 5, role: markers, filename: assets/KR6e0035_005.markers.yaml, hash: 'sha256:808d57f906ab8ae108c05ce069db0b534ed23fa708f06e5ea4a19db6371fb854'}
+  - {seq: 6, role: markers, filename: assets/KR6e0035_006.markers.yaml, hash: 'sha256:51260b20ededb54b89a60457d7df3ad2cacced3381df5d213ce038f3f12eaf28'}
+  - {seq: 7, role: markers, filename: assets/KR6e0035_007.markers.yaml, hash: 'sha256:92a312524700364d588b610d1b5311c4863f9b0ad5527ee046de4481974b8faa'}
+  - {seq: 8, role: markers, filename: assets/KR6e0035_008.markers.yaml, hash: 'sha256:f47938c92c3efac6c305b1bab31a6c520f0d84365cbac9c3fc6eda9e60b63d7e'}
+  - {seq: 9, role: markers, filename: assets/KR6e0035_009.markers.yaml, hash: 'sha256:1d164efe4fb5261d544b2a2338d5ce848cbe00807128a83939d07cb593387bbe'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0035_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6003
+  label: 佛說十地經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0035_T_001-mulu-1
+    span:
+    - body
+    - 32
+    - 32
+  label: 1 菩薩極喜地
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0035_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6840
+  label: 佛說十地經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0035_T_002-mulu-1
+    span:
+    - body
+    - 3317
+    - 3317
+  label: 2 菩薩離垢地
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0035_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6709
+  label: 佛說十地經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0035_T_003-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 3 菩薩發光地
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0035_T_003-mulu-2
+    span:
+    - body
+    - 3753
+    - 3753
+  label: 4 菩薩焰慧地
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0035_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6168
+  label: 佛說十地經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0035_T_004-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 5 菩薩難勝地
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0035_T_004-mulu-2
+    span:
+    - body
+    - 3488
+    - 3488
+  label: 6 菩薩現前地
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0035_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6368
+  label: 佛說十地經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0035_T_005-mulu-1
+    span:
+    - body
+    - 1766
+    - 1766
+  label: 7 菩薩遠行地
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0035_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5656
+  label: 佛說十地經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0035_T_006-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 8 菩薩不動地
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0035_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5274
+  label: 佛說十地經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0035_T_007-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 9 菩薩善慧地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0035_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 5198
+  label: 佛說十地經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0035_T_008-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 10 菩薩法雲地
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0035_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 5654
+  label: 佛說十地經卷第九
+  type: juan
+  level: 1
+hash: sha256:9427e1d9dd4ceca1ca00d30c5f0e63ec62d7eb4728323951d0dd4922df907d10
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

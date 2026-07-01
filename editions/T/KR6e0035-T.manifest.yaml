@@ -1,0 +1,234 @@
+canonical_identifier: bkk:krp/KR6e0035/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0035/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說十地經
+  identifiers:
+    krp: KR6e0035
+    cbeta: T10n0287
+    cbeta_old_id: T10n0287
+    authorityid: CA0003039
+    json_key: T0287
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0287.xml
+    old_id: T10n0287
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0035_000-T.yaml, hash: 'sha256:192b0c158e39573597630bde10d495049ebfadc394d50b143463fac09e513038'}
+  - {seq: 1, filename: KR6e0035_001-T.yaml, hash: 'sha256:495e439836b21c613a2c994975810bb6c39175c903faf805145a75f8af3116d5'}
+  - {seq: 2, filename: KR6e0035_002-T.yaml, hash: 'sha256:6ed61a0e943a4c8ae4f6fa81f2b39fa19414e5ba184423dfeb439f95b5f3d9ed'}
+  - {seq: 3, filename: KR6e0035_003-T.yaml, hash: 'sha256:37c1458de30a9b0dbe15f41c034956f005820269b9ff0d4dd6401390a1e8664d'}
+  - {seq: 4, filename: KR6e0035_004-T.yaml, hash: 'sha256:317456176a1aa3895dcccef8cc7666b084336fb2e0141f7b56e0155498b8a646'}
+  - {seq: 5, filename: KR6e0035_005-T.yaml, hash: 'sha256:813df1935d31b616604f11c1dc42081a579f7f96338afd37e9595c5427334e41'}
+  - {seq: 6, filename: KR6e0035_006-T.yaml, hash: 'sha256:7c0f1cfc2a00d9567526e10b96566bdbf3794b18e812ed47a166934e80dfe4f3'}
+  - {seq: 7, filename: KR6e0035_007-T.yaml, hash: 'sha256:e55811e85aa208c9b3c7ad94d61f642643a63550d055456796e0e60719d2e4bb'}
+  - {seq: 8, filename: KR6e0035_008-T.yaml, hash: 'sha256:12c02d05f44f8895d9ad0391f3a44bfd2287fda8a07329229d9771be2d1d262b'}
+  - {seq: 9, filename: KR6e0035_009-T.yaml, hash: 'sha256:2c0d1c3c6dceeb20c523594c5062580dee62fa8bb90e334dcda90a42b3755226'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0035_000-T.markers.yaml, hash: 'sha256:c80dc8a568208e445514047ac40e57c6177eb6d1823acde0b442c47f365791b7'}
+  - {seq: 1, role: markers, filename: assets/KR6e0035_001-T.markers.yaml, hash: 'sha256:f57aa141ede4ec84f3325d9609df2b86d4a3f3ac9c30afe4f551bb92fad3f2db'}
+  - {seq: 2, role: markers, filename: assets/KR6e0035_002-T.markers.yaml, hash: 'sha256:1b2dc1b5a8498820abdc3fe25dfdd611c870071575cb2f6d994424b8de544116'}
+  - {seq: 3, role: markers, filename: assets/KR6e0035_003-T.markers.yaml, hash: 'sha256:4458b29cb5215a1801a07bc6ec981b870c75e422150f170712de5d31fc360567'}
+  - {seq: 4, role: markers, filename: assets/KR6e0035_004-T.markers.yaml, hash: 'sha256:72a86b903fbb22781ed88dbde681b9e39a8852f5f667d8bd89d53655628b89cb'}
+  - {seq: 5, role: markers, filename: assets/KR6e0035_005-T.markers.yaml, hash: 'sha256:2dfaf02d289ae73051bc28f79d495663bb01f445fcf83586e8f9a18264e03b27'}
+  - {seq: 6, role: markers, filename: assets/KR6e0035_006-T.markers.yaml, hash: 'sha256:441a6e7d28e7115a1e89767fca6c3fcf5ad03667b0de335885f5833edcce1a8a'}
+  - {seq: 7, role: markers, filename: assets/KR6e0035_007-T.markers.yaml, hash: 'sha256:2ab32cc9780d9c9afa1bda897a7a8585eb08d5ad5ee0b03c876fdf36fb72997f'}
+  - {seq: 8, role: markers, filename: assets/KR6e0035_008-T.markers.yaml, hash: 'sha256:ea413a206b13f67fb0734d540f8cb03e0a3378201f2efbbc7b4a988653992c78'}
+  - {seq: 9, role: markers, filename: assets/KR6e0035_009-T.markers.yaml, hash: 'sha256:d45a08c9ac539773a74130b65890edd2fd67dacda8de8350a8d776317ccd69fd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0035_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6003
+  label: 佛說十地經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0035_T_001-mulu-1
+    span:
+    - body
+    - 32
+    - 32
+  label: 1 菩薩極喜地
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0035_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6840
+  label: 佛說十地經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0035_T_002-mulu-1
+    span:
+    - body
+    - 3317
+    - 3317
+  label: 2 菩薩離垢地
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0035_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6709
+  label: 佛說十地經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0035_T_003-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 3 菩薩發光地
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6e0035_T_003-mulu-2
+    span:
+    - body
+    - 3753
+    - 3753
+  label: 4 菩薩焰慧地
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0035_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6168
+  label: 佛說十地經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0035_T_004-mulu-1
+    span:
+    - body
+    - 17
+    - 17
+  label: 5 菩薩難勝地
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6e0035_T_004-mulu-2
+    span:
+    - body
+    - 3488
+    - 3488
+  label: 6 菩薩現前地
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0035_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6368
+  label: 佛說十地經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6e0035_T_005-mulu-1
+    span:
+    - body
+    - 1766
+    - 1766
+  label: 7 菩薩遠行地
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0035_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5656
+  label: 佛說十地經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6e0035_T_006-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 8 菩薩不動地
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0035_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5274
+  label: 佛說十地經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6e0035_T_007-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 9 菩薩善慧地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0035_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 5198
+  label: 佛說十地經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6e0035_T_008-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 10 菩薩法雲地
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6e0035_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 5654
+  label: 佛說十地經卷第九
+  type: juan
+  level: 1
+hash: sha256:adfbb8130246692ba7754d7c82b482f160de6f63b0734182196069649262d763
